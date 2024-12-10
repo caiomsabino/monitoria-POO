@@ -1,19 +1,11 @@
-## Getting Started
+## Exercícios de Orientação a Objetos - Professor André Lanna
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Meu nome é Caio Sabino, sou monitor de Orientação a Objetos.
 
-## Folder Structure
+Nesse repositório, estão alguns exercícios passados pelo professor André,
+para ajudas os alunos a buscar algumas soluções. 
 
-The workspace contains two folders by default, where:
+# Como chegar nos exercícios?
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Os exercícios se encontram na pasta `src`, podendo estar em diferentes pacotes.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# monitoria-POO
