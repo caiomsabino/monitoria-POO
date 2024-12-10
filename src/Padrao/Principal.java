@@ -1,4 +1,6 @@
 package Padrao;
+//Exercicio feito no dia 09/12, sobre UML e relações entre objetos.
+
 
 public class Principal {
     public static void main(String[] args) {

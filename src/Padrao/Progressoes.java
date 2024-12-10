@@ -1,4 +1,5 @@
 package Padrao;
+//Exercício de progressão aritmética e geométrica
 
 import javax.swing.JOptionPane;
 

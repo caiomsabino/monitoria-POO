@@ -1,4 +1,5 @@
 package Padrao;
+//Exercício de cálculo de uma multiplicação de matrizes e transposição
 
 import javax.swing.JOptionPane;
 
