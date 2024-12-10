@@ -7,7 +7,7 @@ public class Progressoes {
         JOptionPane.showMessageDialog(null, "Digite em seguida, o termo da PA e PG que quer calcular, " +
                 "a razão da progressão e o primeiro termo.");
 
-        int paInteiro = lerInteiro("Digite o termo da PA a ser calculado:");
+        int paInteiro = lerInteiro("Digite o termo das progressões a serem calculadas:");
         int primeiroInteiro = lerInteiro("Digite o primeiro elemento:");
         int razaoInteiro = lerInteiro("Digite a razão da progressão:");
 
