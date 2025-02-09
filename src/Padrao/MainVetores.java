@@ -24,7 +24,7 @@ public class MainVetores {
         return Integer.parseInt(JOptionPane.showInputDialog(null, mensagem));
     }
 }
-
+//oi
 class Vetor {
     private int[] vetor;
 
