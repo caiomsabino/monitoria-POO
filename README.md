@@ -9,4 +9,12 @@ para ajudas os alunos a buscar algumas soluções.
 
 Os exercícios se encontram na pasta `src`, podendo estar em diferentes pacotes.
 
+O pacote `Padrao` possui alguns exercícios passados no papel em sala, com gabarito.
+
+O pacote `Palavras` possui um exercício que inclui modificadores de acesso e interação entre classes de mesmo pacote.
+
+O pacote `JavaBasics` possui alguns códigos referentes à linguagem e sua introdução
+
+O pacote `CalculaForma` é referente à uma calculadora de área e perímetro de diferentes formas geométricas, interação entre classes.
+
 Qualquer dúvida, só entrar em contato no grupo geral da matéria.

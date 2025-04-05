@@ -1,5 +1,6 @@
 package JavaBasics;
 public class Vetores {
+    //exemplo de vetor, array, lista, etc.
     public static void main(String[] args) {
         int[] vetor = new int[] {9, 3, 6, 4, 5, 8, 0, 2, 7, 1};
         System.out.println(imprimirVetor(vetor));

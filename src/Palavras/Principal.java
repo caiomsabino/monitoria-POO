@@ -1,7 +1,6 @@
 package Palavras;
 
 public class Principal {
-
 	public static void main(String[] args) {
 		Palindromo palavra1;
 		palavra1 = new Palindromo("ovo"); //construtor alternativo

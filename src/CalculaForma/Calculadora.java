@@ -1,7 +1,10 @@
 package CalculaForma;
 import java.util.Scanner;
 public class Calculadora {
-
+//Classe Calculadora que possui o metodo main, onde o usuario pode escolher entre as figuras geometricas
+//Quadrado, Retangulo, Triangulo, Circulo e Trapézio
+//utiliza a classe Scanner para ler os dados do usuario e calcula a area e o perimetro de cada figura geometrica
+//de acordo com a escolha do usuario.
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);

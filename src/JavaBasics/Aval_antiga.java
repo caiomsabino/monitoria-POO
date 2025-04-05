@@ -2,6 +2,8 @@ package JavaBasics;
 import javax.swing.JOptionPane;
 public class Aval_antiga {
 //o objetivo dessa questão era saber o que sairia no print
+//e o que sairia no JOptionPane, o que foi feito com sucesso
+//e o que não foi feito com sucesso foi a questão de saber o que aconteceria se o valor de y fosse 0,
 	public static void main(String[] args) {
 		
 		int[] t;

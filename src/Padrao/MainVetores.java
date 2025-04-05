@@ -1,7 +1,8 @@
 package Padrao;
 import javax.swing.JOptionPane;
 import java.util.Arrays;
-
+// O objetivo é criar um vetor, ordená-lo em ordem crescente e decrescente e exibir os resultados.
+// O código utiliza a classe JOptionPane para ler os dados do usuário e exibir os resultados.
 public class MainVetores {
     public static void main(String[] args) {
         // Lê o tamanho do vetor

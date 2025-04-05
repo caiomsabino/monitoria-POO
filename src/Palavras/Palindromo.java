@@ -1,6 +1,9 @@
 package Palavras;
-	
 public class Palindromo {
+	//Classe que verifica se uma palavra eh palindromo
+	//e conta o numero de vogais
+	//e inverte a palavra
+	//e retorna a palavra original
 	String palavra;
 	
 	public Palindromo(String pal) {

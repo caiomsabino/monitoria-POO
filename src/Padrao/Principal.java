@@ -1,6 +1,6 @@
 package Padrao;
 //Exercicio feito no dia 09/12, sobre UML e relações entre objetos.
-
+// O objetivo é criar um vetor, ordená-lo em ordem crescente e decrescente e exibir os resultados.
 
 public class Principal {
     public static void main(String[] args) {
