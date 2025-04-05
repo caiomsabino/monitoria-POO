@@ -24,7 +24,8 @@ public class MainVetores {
         return Integer.parseInt(JOptionPane.showInputDialog(null, mensagem));
     }
 }
-//oi
+//objetivo é criar um vetor, ordená-lo em ordem crescente e decrescente e exibir os resultados
+// O código utiliza a classe JOptionPane para ler os dados do usuário e exibir os resultados
 class Vetor {
     private int[] vetor;
 
@@ -50,6 +51,8 @@ class Vetor {
     }
 
     // Ordena o vetor em ordem decrescente
+    // Inverte o vetor ordenado em ordem crescente
+    // para obter a ordem decrescente
     public Vetor ordenarDecrescente() {
         int[] vetorOrdenado = Arrays.copyOf(vetor, vetor.length);
         Arrays.sort(vetorOrdenado);
